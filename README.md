@@ -1,3 +1,8 @@
+# Home Page 
+![Screenshot (20)](https://github.com/user-attachments/assets/7af1ff29-a089-4225-a3e2-5a9d706878d0)
+# Dashboard
+![Screenshot (21)](https://github.com/user-attachments/assets/8f1fa83e-2ecd-4a51-b262-3c3412109a35)
+
 # Testing
 ![Screenshot (19)](https://github.com/user-attachments/assets/ffa15d31-6a9a-4347-9def-b278f2568404)
 ![Screenshot (18)](https://github.com/user-attachments/assets/59f5797d-943f-487d-b2af-62c904e7babc)
